@@ -1,0 +1,14 @@
+# Multidimensional Dynamic Programming
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 120 | Triangle | Medium | — |
+| 64 | Minimum Path Sum | Medium | — |
+| 63 | Unique Paths II | Medium | — |
+| 5 | Longest Palindromic Substring | Medium | — |
+| 97 | Interleaving String | Medium | — |
+| 72 | Edit Distance | Medium | — |
+| 123 | Best Time to Buy and Sell Stock III | Hard | — |
+| 188 | Best Time to Buy and Sell Stock IV | Hard | — |
+| 221 | Maximal Square | Medium | — |
+| 1143 | Longest Common Subsequence | Medium | — |

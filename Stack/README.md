@@ -1,0 +1,9 @@
+# Stack
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 20 | Valid Parentheses | Easy | — |
+| 71 | Simplify Path | Medium | — |
+| 155 | Min Stack | Medium | — |
+| 150 | Evaluate Reverse Polish Notation | Medium | — |
+| 224 | Basic Calculator | Hard | — |
