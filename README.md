@@ -6,7 +6,7 @@ Working through the [Top Interview 150](https://leetcode.com/studyplan/top-inter
 
 | # | Section | Problems | Progress |
 |---|---------|----------|----------|
-| 1 | [Array / String](Array%20String/README.md) | 24 | 2 / 24 |
+| 1 | [Array / String](Array%20String/README.md) | 24 | 3 / 24 |
 | 2 | [Two Pointers](Two%20Pointers/README.md) | 5 | 0 / 5 |
 | 3 | [Sliding Window](Sliding%20Window/README.md) | 4 | 0 / 4 |
 | 4 | [Matrix](Matrix/README.md) | 4 | 0 / 4 |

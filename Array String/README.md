@@ -2,7 +2,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 88 | Merge Sorted Array | Easy | — |
+| 88 | [Merge Sorted Array](merge_sorted_array.cpp) | Easy | ✓ |
 | 27 | [Remove Element](remove_element.cpp) | Easy | ✓ |
 | 26 | [Remove Duplicates from Sorted Array](remove_duplicates.cpp) | Easy | ✓ |
 | 80 | Remove Duplicates from Sorted Array II | Medium | — |
