@@ -6,7 +6,7 @@
 | 27 | [Remove Element](remove_element.cpp) | Easy | ✓ |
 | 26 | [Remove Duplicates from Sorted Array](remove_duplicates.cpp) | Easy | ✓ |
 | 80 | Remove Duplicates from Sorted Array II | Medium | — |
-| 169 | Majority Element | Easy | — |
+| 169 | [Majority Element](majority_element.cpp) | Easy | ✓ |
 | 189 | Rotate Array | Medium | — |
 | 121 | Best Time to Buy and Sell Stock | Easy | — |
 | 122 | Best Time to Buy and Sell Stock II | Medium | — |
